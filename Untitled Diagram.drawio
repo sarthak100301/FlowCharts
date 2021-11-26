@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-11-26T16:12:18.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.8.6" etag="njN0c59MN9uoLokFvX8t" type="github"><diagram id="DkY9cjS6_8LgDzUpe4V5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-26T16:23:44.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="EVfu8v9l2qkQlkHMsDQ0" version="15.8.6" type="github">
+  <diagram id="DkY9cjS6_8LgDzUpe4V5" name="Page-1">
+    <mxGraphModel dx="1597" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M_LI9tKYNSxT8O52wL3e-1" value="START" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF942;strokeColor=#d6b656;gradientDirection=radial;gradientColor=#8EFF6B;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M_LI9tKYNSxT8O52wL3e-2" value="MOTION SENSOR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF942;gradientColor=#8EFF6B;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M_LI9tKYNSxT8O52wL3e-4" value="&lt;span&gt;IF MOTION IS DETECTED&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF942;gradientColor=#8EFF6B;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="M_LI9tKYNSxT8O52wL3e-5" value="TEMPARATURE SENSOR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF942;gradientColor=#8EFF6B;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="585" y="140" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M_LI9tKYNSxT8O52wL3e-6" value="IF TEMAPARTURE ANAMOLY IS THERE" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF942;gradientColor=#8EFF6B;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="760" y="100" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="M_LI9tKYNSxT8O52wL3e-7" value="SWITCHES ON CAMERA" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFF942;gradientColor=#8EFF6B;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="960" y="320" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M_LI9tKYNSxT8O52wL3e-8" value="IMAGE RECIEVED AT CLOUD AND GPS LOCATION" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFF942;gradientColor=#8EFF6B;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="680" y="413" width="160" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="M_LI9tKYNSxT8O52wL3e-9" value="IF IMAGE DETECTED IS WILD ANIMAL" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF942;gradientColor=#8EFF6B;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="M_LI9tKYNSxT8O52wL3e-10" value="ALERT THE USER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF942;gradientColor=#8EFF6B;gradientDirection=radial;" vertex="1" parent="1">
+          <mxGeometry x="440" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
