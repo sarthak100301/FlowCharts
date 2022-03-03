@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T19:53:55.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="0jAD9rrz5Sj8_A0H8K9n" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T19:56:23.889Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="AIcCPP9ifnWMtDjA0Oq9" version="16.6.5" type="github">
   <diagram id="Q7-ka3U2VtvC_zTOFb2D" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,12 @@
         </mxCell>
         <mxCell id="G6CsTYgNH17AaaIi-4ZI-53" value="&lt;b&gt;&lt;u&gt;Fog Resource Manager&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="220" y="219" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G6CsTYgNH17AaaIi-4ZI-54" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/220px-Copyright.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="570" y="360" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="G6CsTYgNH17AaaIi-4ZI-56" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;19BCT0155, 19BCT0121, 19BCT0119&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
